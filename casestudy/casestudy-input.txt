@@ -1,0 +1,24 @@
+Create a detailed case study for a company in Financial Technology trying to achieve compliance with the new EU AI Act 
+
+Details for case study will be in delivered in a final report to the executive staff and board members
+- This is being conducted as a real world scenario and needs to be delivered and described as such in the assessment, findings and report. Make sure all information is delivered and written like it was coming from a consulting firm.
+
+- Details 
+- A CISO contacted our consulting firm, and asked for assistance in assessing their compliance to the new EU AI Act
+- I will conduct a EU AI Act assessment for the company and deliver the findings in a report to executive staff and shareholders
+
+Information to include in the report
+
+- Include an overview of the new EU AI Act regulation, provide what the regulation is, who the regulation applies, explain why the EU AI Act will impact the financial technology industry, include any additional information that is relevant or important to document about the new regulation 
+
+- Provide the Plan and approach for assessing the client, explain the rationale for this plan
+- Include the timeline
+- Include resources that will be needed
+- Include Framework(s) being used and give a detailed explanation as to why these frameworks will be used
+- Include the assessment and results, make sure to provide a lot of details
+- develop and include a gap analysis based on the results, provide a lot of details surrounding the risks and categorize findings
+- include anticipated challenges and important factors that needs to be considered, provide detailed explanations
+- Include Recommendations to achieve remediation, give a detailed roadmap to achieve remediation with the work broken into phases
+- include a detailed executive that contains a summary of findings and highlight any information that executive leadership would need to be aware of
+- provide a list of the resources used during the course of the assessment, include high level step by step procedures that were taken
+- include additional recommendations for the client

@@ -1,0 +1,10 @@
+❯ ollama run llava:34b                                                                                                                                                                                                                                                                                                     ─╯
+>>> Create a company name for a GRC focused company
+I have generated several potential company names for you. Please choose one that best suits your business:
+
+1. GRC Edge Solutions
+2. Regulatory Shield
+3. Compliance First Consulting
+4. Verify Compliance Group
+5. Risk Management Alliance
+

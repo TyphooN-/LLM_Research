@@ -1,0 +1,56 @@
+❯ ollama run llava:34b                                                                                                                                                                                                                                                                                                     ─╯
+>>> Create for me a detailed SOC template for an audit and assessment, include a detailed explanation of what each SOC type is, when each SOC type should be used, and then give me the template and checklist for each type
+Sure! Here is a detailed SOC template for an audit and assessment:
+
+SOC Type 1: Trust Service Principles (TSP)
+
+* Description: SOC 1 reports focus on financial statement assertions related to an organization's internal control over financial reporting.
+* When to use it: SOC 1 should be used when there is a need for assurance on the effectiveness of controls that are relevant to financial statements.
+
+SOC Type 2: Trust Service Criteria (TSC)
+
+* Description: SOC 2 reports focus on an organization's information security, availability, processing integrity, confidentiality and privacy.
+* When to use it: SOC 2 should be used when there is a need for assurance on the effectiveness of controls that are relevant to operational processes.
+
+SOC Type 3: Public Trust Reporting (PTR)
+
+* Description: SOC 3 reports focus on publicly available descriptions of an organization's information security, availability, processing integrity, confidentiality and privacy.
+* When to use it: SOC 3 should be used when there is a need for assurance on the effectiveness of controls that are relevant to public reporting.
+
+Here is a template and checklist for each type of SOC:
+
+SOC Type 1 Template and Checklist:
+
+1. Description of the entity's systems, processes and procedures related to financial statement assertions
+2. Description of the scope of the audit and any limitations on the assurance provided
+3. Assurance on the effectiveness of controls that are relevant to financial statements
+4. Identification of any material weaknesses in internal control over financial reporting
+5. Discussion of management's response to identified material weaknesses
+6. Description of any significant changes in internal control over financial reporting since the last audit
+7. Opinion on whether the entity's system, processes and procedures have been designed and operated effectively to achieve the relevant assertions
+8. Recommended improvements to the entity's system, processes and procedures related to internal control over financial reporting
+
+SOC Type 2 Template and Checklist:
+
+1. Description of the entity's systems, processes and procedures related to information security, availability, processing integrity, confidentiality and privacy
+2. Description of the scope of the audit and any limitations on the assurance provided
+3. Assurance on the effectiveness of controls that are relevant to operational processes
+4. Identification of any material weaknesses in internal control over operations
+5. Discussion of management's response to identified material weaknesses
+6. Description of any significant changes in internal control over operations since the last audit
+7. Opinion on whether the entity's system, processes and procedures have been designed and operated effectively to achieve the relevant criteria
+8. Recommended improvements to the entity's system, processes and procedures related to internal control over operations
+9. Description of any tests of controls or other procedures performed during the audit
+10. Description of any significant findings or issues identified during the audit
+
+SOC Type 3 Template and Checklist:
+
+1. Description of the entity's systems, processes and procedures related to information security, availability, processing integrity, confidentiality and privacy
+2. Description of the scope of the assessment and any limitations on the assurance provided
+3. Assurance on the effectiveness of controls that are relevant to public reporting
+4. Identification of any material weaknesses in internal control over public reporting
+5. Discussion of management's response to identified material weaknesses
+6. Description of any significant changes in internal control over public reporting since the last assessment
+7. Opinion on whether the entity's system, processes and procedures have been designed and operated effectively to achieve the relevant criteria
+8. Recommended improvements
+

@@ -1,0 +1,43 @@
+❯ ollama run mistral                                                                                                                                                                                                                                                                                                       ─╯
+>>> Create for me a detailed SOC template for an audit and assessment, include a detailed explanation of what each SOC type is, when each SOC type should be used, and then give me the template and checklist for each type
+ Title: Service Organization Control (SOC) Audit and Assessment Template
+
+**Introduction:**
+
+Service Organization Control (SOC) reports are designed to provide a description of a service organization's system and the suitability of the design and operating effectiveness of controls to meet relevant control objectives. The American Institute of Certified Public Accountants (AICPA) defines three types of 
+SOC reports: SOC 1, SOC 2, and SOC 3.
+
+**1. SOC 1 (SSAE 18/ISAE 3402): Reports on Controls at a Service Organization Relevant to User Entities' Financial Statements**
+
+- **Purpose:** Provides assurance that the service organization has controls in place to process transactions or financial data within an agreed-upon framework, thereby enabling user entities to achieve their objectives.
+- **Usage:** Primarily used by service organizations providing outsourced financial processes such as payroll processing, banking, and investment services.
+
+**SOC 1 Template and Checklist**
+
+- Control Objectives: Identify the control objectives relevant to the financial reporting needs of user entities.
+- Description of Service Auditor's Testing of Controls: Detail the service auditor's testing methodology, including scope, procedures, and findings.
+- Conclusion: Summarize the results of the audit, including any identified deficiencies or limitations in the design or operation of controls.
+
+**2. SOC 2 (AT 101): Reports on Controls at a Service Organization Relevant to Security, Availability, Processing Integrity, Confidentiality, or Privacy**
+
+- **Purpose:** Provides assurance that the service organization has effective controls in place related to security, availability, processing integrity, confidentiality, and privacy.
+- **Usage:** Primarily used by service organizations providing outsourced services such as cloud computing, data storage, and software applications where system trust and security are critical.
+
+**SOC 2 Template and Checklist**
+
+- Trust Services Criteria: Select the relevant criteria based on the needs of the user entities (Security, Availability, Processing Integrity, Confidentiality, or Privacy).
+- Description of Service Auditor's Testing of Controls: Detail the service auditor's testing methodology, including scope, procedures, and findings.
+- Conclusion: Summarize the results of the audit, including any identified deficiencies or limitations in the design or operation of controls.
+
+**3. SOC 3 (SSAE 18): Reports on Controls at a Service Organization Relevant to Security, Availability, Processing Integrity, Confidentiality, or Privacy for Use in General Use Reports**
+
+- **Purpose:** Provides a simplified, streamlined version of the SOC 2 report, which can be used by service organizations to demonstrate compliance with their controls without disclosing sensitive information.
+- **Usage:** Primarily used by service organizations that want to share their audit results with a broader audience, such as customers, investors, or prospects.
+
+**SOC 3 Template and Checklist**
+
+- Trust Services Criteria: Select the relevant criteria based on the needs of the user entities (Security, Availability, Processing Integrity, Confidentiality, or Privacy).
+- Description of System and the Suitability of the Design of Controls: Provide an overview of the service organization's system and controls.
+- Controls at a Minimum Were in Place and Functioned as Described: Confirm that controls were in place and functioning effectively during the specified period.
+- Identified Control Deficiencies: If any deficiencies were identified, provide an explanation and mitigating actions taken or planned.
+

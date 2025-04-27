@@ -1,0 +1,145 @@
+❯ ollama run command-a:111b-03-2025-q8_0                                                                                                                                                                                                                                                                                   ─╯
+>>> Create for me a detailed SOC template for an audit and assessment, include a detailed explanation of what each SOC type is, when each SOC type should be used, and then give me the template and checklist for each type
+# SOC (System and Organization Controls) Audit and Assessment Templates
+
+The SOC (System and Organization Controls) reporting framework is designed to help service organizations demonstrate their internal controls' effectiveness to customers and stakeholders. Developed by the American Institute of Certified Public Accountants (AICPA), SOC reports provide assurance about the 
+security, availability, processing integrity, confidentiality, and privacy of a system. There are three main types of SOC reports: SOC 1, SOC 2, and SOC 3. Below is a detailed explanation of each type, when to use them, and templates with checklists for each.
+
+---
+
+## **SOC 1 (SSAE 18 / ISAE 3402)**  
+**What it is:**  
+SOC 1 reports focus on controls at a service organization that are relevant to a user entity's internal control over financial reporting (ICFR). It is based on the Statement on Standards for Attestation Engagements No. 18 (SSAE 18) or International Standard on Assurance Engagements 3402 (ISAE 3402).  
+
+**When to use it:**  
+Use SOC 1 when your service organization’s controls impact a client’s financial reporting. It is typically required for organizations that process financial transactions on behalf of their clients, such as payroll processors, loan servicers, or data centers.  
+
+**Types:**  
+- **Type 1**: Reports on the design of controls at a specific point in time.  
+- **Type 2**: Reports on the design and operating effectiveness of controls over a period (usually 6–12 months).  
+
+---
+
+### **SOC 1 Template and Checklist**
+
+#### **Template Outline**  
+1. **Report Introduction**  
+   - Service Auditor’s Report  
+   - Management’s Assertion  
+
+2. **Description of the Service Organization’s System**  
+   - Nature of the services provided  
+   - System boundaries (e.g., locations, systems, processes)  
+   - Control objectives and related controls  
+
+3. **Control Activities**  
+   - Detailed description of control activities relevant to ICFR  
+
+4. **Complementary User Entity Controls**  
+   - Controls that the user entity must implement to achieve control objectives  
+
+5. **Test Procedures and Results (Type 2 Only)**  
+   - Period covered  
+   - Testing methodology  
+   - Results of testing  
+
+#### **Checklist**  
+- [ ] Confirm the scope and boundaries of the system under review.  
+- [ ] Identify control objectives related to ICFR.  
+- [ ] Document control activities and link them to control objectives.  
+- [ ] Perform test procedures for Type 2 reports.  
+- [ ] Obtain management’s assertion about the description of the system and controls.  
+- [ ] Issue the SOC 1 report (Type 1 or Type 2).  
+
+---
+
+## **SOC 2**  
+**What it is:**  
+SOC 2 reports focus on a service organization’s non-financial controls related to the AICPA’s Trust Services Criteria: Security, Availability, Processing Integrity, Confidentiality, and Privacy. It provides assurance that the organization manages customer data with integrity and security.  
+
+**When to use it:**  
+Use SOC 2 when your service organization handles sensitive customer data or provides services that require trust in areas like cloud computing, SaaS platforms, or managed IT services.  
+
+**Types:**  
+- **Type 1**: Reports on the design of controls at a specific point in time.  
+- **Type 2**: Reports on the design and operating effectiveness of controls over a period (usually 6–12 months).  
+
+---
+
+### **SOC 2 Template and Checklist**  
+
+#### **Template Outline**  
+1. **Independent Service Auditor’s Report**  
+   - Opinion on the description of the system and fairness of presentation.  
+
+2. **Management’s Assertion**  
+   - Statement by management about the system and controls.  
+
+3. **Description of the System**  
+   - Service commitments and system boundaries.  
+
+4. **Trust Services Criteria**  
+   - Security, Availability, Processing Integrity, Confidentiality, Privacy (as applicable).  
+
+5. **Control Environment**  
+   - Policies, procedures, and governance.  
+
+6. **Test Procedures and Results (Type 2 Only)**  
+   - Period covered  
+   - Testing methodology  
+   - Results of testing  
+
+#### **Checklist**  
+- [ ] Identify the Trust Services Criteria in scope.  
+- [ ] Document the system description and boundaries.  
+- [ ] Map controls to the applicable Trust Services Criteria.  
+- [ ] Perform test procedures for Type 2 reports.  
+- [ ] Obtain management’s assertion.  
+- [ ] Issue the SOC 2 report (Type 1 or Type 2).  
+
+---
+
+## **SOC 3**  
+**What it is:**  
+A SOC 3 report is a general-use report that provides a summary of the system and whether it has achieved the Trust Services Criteria. Unlike SOC 2, it does not include detailed control descriptions or test results.  
+
+**When to use it:**  
+Use SOC 3 for marketing purposes or to provide a high-level assurance to the public about your organization’s controls. It is less detailed than SOC 2 and can be freely distributed.  
+
+---
+
+### **SOC 3 Template and Checklist**  
+
+#### **Template Outline**  
+1. **Independent Service Auditor’s Report**  
+   - Opinion on compliance with Trust Services Criteria.  
+
+2. **Management’s Assertion**  
+   - Brief statement about the system and controls.  
+
+3. **System Overview**  
+   - High-level description of the system.  
+
+4. **Trust Services Criteria**  
+   - Summary of criteria met (Security, Availability, etc.).  
+
+#### **Checklist**  
+- [ ] Identify the Trust Services Criteria in scope.  
+- [ ] Prepare a high-level system overview.  
+- [ ] Obtain management’s assertion.  
+- [ ] Issue the SOC 3 report for general distribution.  
+
+---
+
+## **Key Differences Between SOC Reports**  
+| **Aspect**            | **SOC 1**                          | **SOC 2**                          | **SOC 3**                          |  
+|------------------------|------------------------------------|------------------------------------|------------------------------------|  
+| **Focus**              | Financial controls (ICFR)         | Non-financial controls (Trust Services Criteria) | Non-financial controls (summary) |  
+| **Audience**           | User entities and auditors        | Clients, prospects, regulators    | General public                    |  
+| **Distribution**       | Restricted                        | Restricted                        | Public                            |  
+| **Detail Level**       | Detailed                          | Detailed                          | High-level summary                |  
+
+---
+
+By using these templates and checklists, organizations can effectively prepare for and complete SOC audits, ensuring compliance and building trust with stakeholders.
+
